@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Food List Application
 
 You can use the [editor on GitHub](https://github.com/KrishnaKakarla88/Food-List/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
